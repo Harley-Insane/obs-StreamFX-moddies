@@ -2,6 +2,9 @@
 # StreamFX
 Bring your setup to the modern day with StreamFX! With several super fast filters, new ways to build your scenes, and new encoders you can now take your stream even further. Create cool new scenes with 3D effects, make something glow or have a shadow, or blur out content - the choice is yours!
 
+![Harley Insane](https://raw.githubusercontent.com/Harley-Insane/obs-StreamFX-moddies/root/media/HI_Dev.png)
+Modification for more functionality, hardware accelerated and module expansion (ARM64 architecture targetet as well)
+
 [![CI](https://github.com/Xaymar/obs-StreamFX/actions/workflows/main.yml/badge.svg)](https://github.com/Xaymar/obs-StreamFX/actions) [![Crowdin](https://badges.crowdin.net/obs-stream-effects/localized.svg)](https://crowdin.com/project/obs-stream-effects)
 
 # Support the development of StreamFX!
